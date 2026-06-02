@@ -1,9 +1,9 @@
 HELP.md
-data/target/
-data/.mvn/
+target/
+.mvn/
 !**/src/main/**/target/
 !**/src/test/**/target/
-data/src/test
+src/test
 
 ### STS ###
 .apt_generated
@@ -33,5 +33,4 @@ build/
 ### VS Code ###
 .vscode/
 .env
-target/
 logs/
