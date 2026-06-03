@@ -2,6 +2,10 @@
 
 ### Architecture Diagram
 
+<img width="1257" height="379" alt="lkh" src="https://github.com/user-attachments/assets/9921772c-0b21-40ce-a6f4-ecd8fecce92e" />
+
+
+
 
 ```sh
 docker compose exec postgres psql -U root -d demo
