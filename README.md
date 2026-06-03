@@ -1,5 +1,18 @@
 ## From PostgreSQL to Analytics: Designing a Lakehouse with Spark, Iceberg, Nessie, and Dremio
 
+![workflow](https://github.com/zablon-oigo/iceberg-nessie-dremio-spark-lakehouse/actions/workflows/ci.yaml/badge.svg)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-3.5+-E25A1C?logo=apachespark&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-Lakehouse-3C8DBC?logo=apache&logoColor=white)
+![Project Nessie](https://img.shields.io/badge/Project%20Nessie-Catalog-4B5563)
+![MinIO](https://img.shields.io/badge/MinIO-S3%20Storage-C72E49?logo=minio&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16+-4169E1?logo=postgresql&logoColor=white)
+![Dremio](https://img.shields.io/badge/Dremio-Query%20Engine-2E77BC)
+![Apache Superset](https://img.shields.io/badge/Apache%20Superset-BI-20A6C9?logo=apache&logoColor=white)
+![Java](https://img.shields.io/badge/Java-17+-ED8B00?logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-3.8+-C71A36?logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Latest-2496ED?logo=docker&logoColor=white)
+
+
 
 This project demonstrates an end-to-end Lakehouse architecture built entirely with open-source technologies.
 
